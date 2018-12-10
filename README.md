@@ -13,6 +13,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 This project is a Java applet created in NetBeans. Applets do not require a main() function to be run.
-However, in NetBeans usually looks for a main() function. To circumvent this, the **Run File**
+However, NetBeans usually looks for a main() function. To circumvent this, the **Run File**
 command must be executed in NetBeans (Hotkey: Shift + F6) instead of a regular **Run**.
 
